@@ -2,7 +2,7 @@
 
 > Luciano and Prabhakar 1st project in HTML&CSS3 module.
 
-![screenshot](./app_screenshot.png)
+![screenshot](images/app_screenshot.png)
 
 In this task we were required to create a clone of a video page of youtube.com using the best practices of GitHub.
 
