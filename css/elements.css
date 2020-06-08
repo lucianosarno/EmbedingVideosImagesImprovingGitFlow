@@ -1,0 +1,51 @@
+#logoAndMenu {
+    float: left;
+  }
+  #searchBarDiv {
+  }
+  #rightTopIconsDiv {
+    float: right;
+    width: 20%;
+    justify-content: space-between;
+  }
+  #logoAndMenuDiv {
+    width: 13%;
+    justify-content: space-between;
+  }
+  #searchBarInput {
+    height: 35px;
+    width: 500px;
+  }
+  #videoTitleH1 {
+    text-align: left;
+  }
+  #viewsCounterSub {
+    text-align: left;
+  }
+  #channelAndSubscribeImg,
+  #viewsLikeShare {
+    width: 100%;
+  }
+  #upNextP {
+    margin: 0;
+    width: 40%;
+    margin-bottom: 1%;
+    text-align: left;
+    float: inline-start;
+  }
+  #upNextHeader {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  #upNextAutoPlay {
+    float: right;
+    height: 20px;
+  }
+  
+  #iFrame {
+    border: 0px;
+    width: 710px;
+    height: 409px; 
+  }
