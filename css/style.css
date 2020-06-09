@@ -1,8 +1,12 @@
+/*Class Styling here*/
 .logo {
     width: 100px;
   }
   .icon {
     height: 30px;
+  }
+  .hide {
+    display: none; 
   }
   
   .nextVideoSection {
