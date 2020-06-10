@@ -13,7 +13,7 @@ In this task we were required to create a clone of a video page of youtube.com u
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/lucianosarno/EmbedingVideosImages/blob/master/index.html)
+[Live Demo Link](https://rawcdn.githack.com/lucianosarno/EmbedingVideosImagesImprovingGitFlow/dfea528364cc444bb377f9966c8de837171ff6e4/index.html)
 
 
 ## Getting Started
@@ -39,7 +39,7 @@ In this task we were required to create a clone of a video page of youtube.com u
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/lucianosarno/EmbedingVideosImagesImprovingGitFlow/issues)
 
 ## Show your support
 
@@ -49,6 +49,7 @@ Give a ⭐️ if you like this project!
 
 - Microverse
 - GitHub
+- TheOdinProject
 
 ## 📝 License
 
