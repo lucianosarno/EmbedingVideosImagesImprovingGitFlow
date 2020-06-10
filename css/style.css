@@ -29,11 +29,8 @@
     margin-top: 0%;
     margin-bottom: 3%;
     float: left;
-  
-  }
-  .subcount{
-    margin-top: 5%;
-    float: left;
+    width: 50%;
+    padding-left: 0%;
   }
   
   .nextVideoSection {
@@ -60,7 +57,9 @@
   .nextVideoViewCounter {
     margin-top: 0%;
   }
-  
+  .shareButton{
+    border: 0px;
+  }
 
   /*Elements Styling Goes here*/
 
