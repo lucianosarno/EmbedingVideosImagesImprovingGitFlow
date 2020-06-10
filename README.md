@@ -13,7 +13,7 @@ In this task we were required to create a clone of a video page of youtube.com u
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/lucianosarno/EmbedingVideosImagesImprovingGitFlow/dfea528364cc444bb377f9966c8de837171ff6e4/index.html)
+[Live Demo Link](https://rawcdn.githack.com/lucianosarno/EmbedingVideosImagesImprovingGitFlow/82aeef89bada5c4917110dfda84344d7ca5e6600/index.html)
 
 
 ## Getting Started
