@@ -8,6 +8,33 @@
   .hide {
     display: none; 
   }
+  .channel{
+    float: left;
+    width: 40%;
+    text-align: left;
+    
+   
+  }
+  .chnnelDetails{
+    float: right;
+    width: 100%;
+
+  }
+  .channelavtar{
+    width: 20%;
+    float: left;
+
+  }
+  .channelName{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    float: top;
+  
+  }
+  .subcount{
+    margin-top: 0%;
+    float: bottom;
+  }
   
   .nextVideoSection {
     float: left;
@@ -40,7 +67,8 @@
   #logoAndMenu {
     float: left;
   }
-  #searchBarDiv {
+  #channelavtaricon{
+
   }
   #rightTopIconsDiv {
     float: right;
