@@ -27,13 +27,13 @@
   }
   .channelName{
     margin-top: 0%;
-    margin-bottom: 0%;
-    float: top;
+    margin-bottom: 3%;
+    float: left;
   
   }
   .subcount{
-    margin-top: 0%;
-    float: bottom;
+    margin-top: 5%;
+    float: left;
   }
   
   .nextVideoSection {
