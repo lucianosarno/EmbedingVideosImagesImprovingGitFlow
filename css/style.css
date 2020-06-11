@@ -1,0 +1,159 @@
+/*Class Styling here*/
+.logo {
+    width: 100px;
+  }
+  .icon {
+    height: 30px;
+  }
+  .hide {
+    display: none; 
+  }
+  .channel{
+    float: left;
+    width: 40%;
+    text-align: left;
+    
+   
+  }
+  .chnnelDetails{
+    float: right;
+    width: 100%;
+
+  }
+  .channelavtar{
+    width: 20%;
+    float: left;
+
+  }
+  .channelName{
+    margin-top: 0%;
+    margin-bottom: 3%;
+    float: left;
+    width: 50%;
+    padding-left: 0%;
+  }
+  
+  .nextVideoSection {
+    float: left;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 2%;
+  }
+  .nextVideoTextSection {
+    float: right;
+    width: 55%;
+  }
+  .nextVideosThumbImg {
+    width: 42%;
+    float: left;
+  }
+  .underVideoContent {
+    width: 63%;
+  }
+  .videoThumbH4 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+  }
+  .nextVideoViewCounter {
+    margin-top: 0%;
+  }
+  .shareButton{
+    border: 0px;
+  }
+
+  /*Elements Styling Goes here*/
+
+  #logoAndMenu {
+    float: left;
+  }
+  #channelavtaricon{
+
+  }
+  #rightTopIconsDiv {
+    float: right;
+    width: 20%;
+    justify-content: space-between;
+  }
+  #logoAndMenuDiv {
+    width: 13%;
+    justify-content: space-between;
+  }
+  #searchBarInput {
+    height: 35px;
+    width: 500px;
+  }
+  #videoTitleH1 {
+    text-align: left;
+  }
+  #viewsCounterSub {
+    text-align: left;
+  }
+  #channelAndSubscribeImg,
+  #viewsLikeShare {
+    width: 100%;
+    justify-content: space-between;
+  }
+  #upNextP {
+    margin: 0;
+    width: 40%;
+    margin-bottom: 1%;
+    text-align: left;
+    float: inline-start;
+  }
+  #upNextHeader {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  #upNextAutoPlay {
+    float: right;
+    height: 20px;
+  }
+  
+  #iFrame {
+    border: 0px;
+    width: 710px;
+    height: 409px; 
+  }
+
+  /*Tags styling goes here */
+
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+  nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  main {
+    width: 87%;
+    text-align: center;
+    margin: auto;
+    margin-top: 35px;
+  }
+  section,
+  article {
+    float: left;
+    width: 70%;
+  }
+  aside {
+    float: right;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  div {
+    display: flex;
+    align-items: center;
+  }
+  hr {
+    border-width: 1px;
+    color: gray;
+  }
+  
